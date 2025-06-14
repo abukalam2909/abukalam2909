@@ -1,20 +1,10 @@
 <!-- Hero Banner with Motion Typing and Custom GIF -->
 
+
 <div align="center">
-  <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&size=26&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=800&lines=👋+Hi+there!+I'm+Abu+Kalam."
-    alt="Typing SVG"
-  />
-</p>
+  <h2>👋 Hi there! I'm Abu Kalam</h2>
+  <p><i>Software Engineer • GenAI Enthusiast • Cloud Specialist</i></p>
 </div>
-
-
-<!-- Crisp Identity Summary -->
-<p align="center">
-  🌐 <b>Software Engineer</b> | 🧠 <b>GenAI Innovator</b> | 🎓 <b>Master’s @ Dalhousie</b> <br/>
-  🤝 <b>Open to Fall 2025 Co-op</b> | 🔍 <i>Exploring impactful roles in Software Development, DevOps & Cloud-Native AI</i>
-</p>
 
 
 <p align="center">
