@@ -71,7 +71,7 @@ status: Seeking Fall 2025 Co-op / Internship
 <table>
   <tr>
     <td>
-      <h4><a href="https://github.com/abukalam2909/HRM_Accident_Analysis">📊 YouTube Analytics Studio</a></h4>
+      <h4><a href="https://github.com/abukalam2909/Youtube_insight_engine">📊 YouTube Analytics Studio</a></h4>
       <p>An end-to-end Generative AI pipeline using AWS Lambda, Amazon Bedrock, and OpenSearch to extract viewer insights, sentiment trends, and success factors of YouTube videos.</p>
       <h5>🛠 Tech Stack:</h5>
       <p>AWS Lambda · Amazon Bedrock · OpenSearch · DynamoDB · Claude 3 · API Gateway · React (UI planned)</p>
