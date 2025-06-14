@@ -34,8 +34,6 @@
         <span style="font-size: 16px;">GitHub</span>
       </a>
     </td>
-   </tr>
-   <tr>
     <td align="center" valign="middle" style="padding: 10px;">
       <a href="https://leetcode.com/u/abukalam99/" target="_blank" style="text-decoration: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/><br/>
