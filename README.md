@@ -2,11 +2,11 @@
 
 <div align="center">
   <p align="center">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&size=50&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=800&lines=👋+Hi+there!+I'm+Abu+Kalam."
-      alt="Typing SVG"
-    />
-  </p>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&size=26&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=800&lines=👋+Hi+there!+I'm+Abu+Kalam."
+    alt="Typing SVG"
+  />
+</p>
 </div>
 
 
